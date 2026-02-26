@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+87
+"Señor usuario favor ingrese los 2 numeros difernetes para ordenarlos de mayor a menor"
+5
+1
+3
+A,B
+7
+0
+1
+3
+A>B
+7
+0
+1
+3
+B>A
+13
+13
+4
+1
+22
+"El numero mayor es",B
+4
+1
+22
+"El numero menor es",A
+13
+4
+1
+22
+"El numero mayor es",A
+4
+1
+23
+"El numero menor es" ,B
+13
+1
